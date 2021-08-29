@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmanuelAbay
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Software engineering in Addis Ababa Science and Technology University
+- 🌱 I’m PEVN Stack web Developer and Software engineering Student in Addis Ababa Science and Technology University
 - 💞️ I’m looking to collaborate on Some Project which focuses on Web and Mobile App Development
 - 📫  @manua_pr
 
