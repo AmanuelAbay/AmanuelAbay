@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m a software engineer, with 3+ years of experience in web development using javascript framework families vue and React with backend Node( express framework) and MongoDb.
 - 💞️ interested in codding and listening hip-hop musics
-- 📫  @manua_pr
+- 📫 
 -<a target="_blank" href="https://bit.ly/3w3ppyS">Amanuel Abay</a>
 
 
