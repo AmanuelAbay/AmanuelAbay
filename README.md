@@ -3,6 +3,7 @@
 - 🌱 I’m a software engineer, with 3+ years of experience in web development using javascript framework families vue and React with backend Node( express framework) and MongoDb.
 - 💞️ interested in codding and listening hip-hop musics
 - 📫  @manua_pr
+- 
 -<a target="_blank" href="https://bit.ly/3w3ppyS"><img width="40px" src="https://static.thenounproject.com/png/3085408-200.png"/> Amanuel Abay</a>
 
 
