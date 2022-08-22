@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmanuelAbay
 - 👀 I’m interested in Coding
-- 🌱 I’m PEVN Stack web Developer and Software engineering Student @ Addis Ababa Science and Technology University
-- 💞️ I’m looking to collaborate on Some Project which focuses on Web and Mobile App Development
+- 🌱 I’m a software enginer, with 3+ years of experiences in web development using javascript framework families which is vue and React with backend Node( express framework) and MongoDb.
+- 💞️ interested in codding and listening hip-hop musics
 - 📫  @manua_pr
 
 
