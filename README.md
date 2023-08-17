@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AmanuelAbay
 - 👀 I’m interested in Coding
-- 🌱 Welcome to my github account! With a passion for coding and a background in Software Engineering, I specialize in backend development with a focus on providing efficient and optimized solutions for any coding tasks. I graduated from Addis Ababa Science and Technology University with a bachelor's degree in Software Engineering. With four years of coding experience, including one year dedicated to backend development, I have honed my skills and expertise in various technologies and frameworks.
+  
+🌱 Welcome to my github account! With a passion for coding and a background in Software Engineering, I specialize in backend development with a focus on providing efficient and optimized solutions for any coding tasks. I graduated from Addis Ababa Science and Technology University with a bachelor's degree in Software Engineering. With four years of coding experience, including one year dedicated to backend development, I have honed my skills and expertise in various technologies and frameworks.
 
 In the realm of backend development, I excel in working with technologies such as Hasura, Golang, Docker, AWS, Digital Ocean, and Express, which is a powerful Node.js framework. I have hands-on experience in integrating backend solutions with databases like MySQL, PostgreSQL, and MongoDB, ensuring seamless data management and retrieval.
 
